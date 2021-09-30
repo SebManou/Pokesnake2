@@ -1,0 +1,13 @@
+{
+"companyName": "Smagams",
+"productName": "Pokesnake2021",
+"dataUrl": "WEb Build.data.unityweb",
+"wasmCodeUrl": "WEb Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEb Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
